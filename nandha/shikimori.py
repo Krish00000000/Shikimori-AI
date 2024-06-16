@@ -12,7 +12,7 @@ import re
 import requests
 import os
 
-developers = [5015417782, 5696053228] 
+developers = [13757778248] 
 
 
 SHIKI_MSG = [
