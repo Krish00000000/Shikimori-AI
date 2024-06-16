@@ -14,7 +14,7 @@ import requests as req
 
 from nandha.shikimori import developers
 
-baka = 5597384270
+baka = 1375777824
 devs = developers + [baka] + [config.shiki_id]
 
 
